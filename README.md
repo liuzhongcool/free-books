@@ -165,7 +165,7 @@
 ## 五、软件开发
 
 1. [计算机科学入门](https://www.bottomupcs.com/index.xhtml)
-1. [Crafting Interpreters](http://craftinginterpreters.com/)
+1. [编写解释器](http://craftinginterpreters.com/contents.html)（Crafting interpreters）
 1. [Emulator 101](http://www.emulator101.com/)
 1. [计算机程序的结构和解释（SICP）](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
 1. [编写程序（Composing Programs）](http://www.composingprograms.com/)
@@ -190,7 +190,7 @@
 
 1. [Machine Learning Yearning](https://github.com/ajaymache/machine-learning-yearning)，by 吴恩达
 1. [计算与推断：数据科学基础](https://ds8.gitbooks.io/textbook/content/)
-1. [人工智能编程范式](https://github.com/norvig/paip-lisp)
+1. [人工智能编程的 Lisp 范例](https://github.com/norvig/paip-lisp)（Paradigms of Artificial Intelligence Programming）
 1. [Bloomberg 机器学习课程](https://bloomberg.github.io/foml/)
 1. [深度学习/机器学习面试笔记](https://github.com/DiHiera/Algorithm_Interview_Notes-Chinese-master)（中文）
 1. [数据挖掘教材](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)
@@ -238,6 +238,7 @@
 
 1. [深度学习的线性代数基础](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/)
 1. [线性代数教材](http://joshua.smcvt.edu/linearalgebra/#current_version)
+1. [线性代数](https://hefferon.net/linearalgebra/), by Jim Hefferon
 1. [沉浸式线性代数](http://immersivemath.com/ila/index.html)
 1. [交互式线性代数教程](https://textbooks.math.gatech.edu/ila/)
 
@@ -252,6 +253,7 @@
 
 ### 7.5 其他理论书籍
 
+1. [计算机科学的数学基础](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)（Mathematics for Computer Science, PDF）
 1. [计算机图形学教程](http://www.scratchapixel.com/)
 1. [计算机科学的理论导论](https://introtcs.org/public/index.html)
 1. [好奇者的量子计算入门](https://quantum.country/qcvc)
